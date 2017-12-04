@@ -1,0 +1,2 @@
+# ClassQuoteGen
+# qgenwalkthroughKyle
